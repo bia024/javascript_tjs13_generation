@@ -1,15 +1,22 @@
 {
   "name": "javascript",
   "version": "1.0.0",
-  "type": "module",
-  "description": "",
+  "description": "<br />",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bia024/javascript_tjs13_generation.git"
+  },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bia024/javascript_tjs13_generation/issues"
+  },
+  "homepage": "https://github.com/bia024/javascript_tjs13_generation#readme",
   "dependencies": {
     "readline-sync": "^1.4.10"
   }
